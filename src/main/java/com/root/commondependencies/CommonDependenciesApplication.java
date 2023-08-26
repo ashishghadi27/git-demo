@@ -10,6 +10,7 @@ public class CommonDependenciesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CommonDependenciesApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
