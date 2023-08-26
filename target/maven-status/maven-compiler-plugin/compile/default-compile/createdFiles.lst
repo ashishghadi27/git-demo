@@ -1,0 +1,6 @@
+com\root\commondependencies\utils\JsonSerializationUtils.class
+com\root\commondependencies\vo\ParsedDataVO.class
+com\root\commondependencies\vo\ProductVO.class
+com\root\commondependencies\CommonDependenciesApplication.class
+com\root\commondependencies\vo\ChildPartVO.class
+com\root\commondependencies\vo\MonthlyPlanVO.class
